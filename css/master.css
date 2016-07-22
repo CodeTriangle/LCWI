@@ -1,0 +1,38 @@
+#title {
+  background-color: #53d;
+  color: white;
+  text-align: center;
+  box-shadow: 0 0 15px #555;
+}
+
+.feature {
+  text-align: center;
+  box-shadow: 0 0 10px gray;
+  width: 100%;
+  margin: 5px;
+  color: white;
+}
+
+.feature-red {
+  background-color: #911;
+}
+
+.feature-yellow {
+  background-color: #991;
+}
+
+.feature-green {
+  background-color: #191;
+}
+
+.feature-cyan {
+  background-color: #199;
+}
+
+.feature-blue {
+  background-color: #119;
+}
+
+.feature-magenta {
+  background-color: #919;
+}
